@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hey, I'm Pushkar 👋🐻
 
-<!--
-**pushkarthisside/pushkarthisside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**2nd year · Information Science & Engineering · Bangalore Institute of Technology**
 
-Here are some ideas to get you started:
+🛠️ I learn by building things and experimenting as I go.  
+👨🏽‍💻 Right now, I'm focusing on DSA in Java, building small tools, and improving step by step.  
+📍 From Bhubaneswar · Currently in Bangalore  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+
+---
+
+### 🎯 Core Focus
+
+Problem solving (DSA in Java) · OOP fundamentals · Backend basics · Building practical tools
+
+---
+
+### 🚀 Things I've Built
+
+**[RamKleener](https://github.com/pushkarthisside/ramkleener)**  
+CLI tool to safely free RAM using a tiered, personalized process filter.  
+`PowerShell` `Python`
+
+**[Mood Elevator](https://github.com/pushkarthisside/mood-elevator)**  
+Web app that tracks mood over time — built to understand frontend state and interactions.  
+`HTML` `CSS` `JavaScript`
+
+**OBS Plugin**  
+Custom plugin for OBS Studio to extend scene control — first dive into Lua scripting.  
+`Lua`
+
+---
+
+### 🔭 Currently Exploring
+
+`AI / ML` · `Blockchain` · `System Design` · `Finance & Markets`
+
+---
+
+"still learning, still building."
