@@ -31,7 +31,7 @@ Problem solving (DSA in Java) · OOP fundamentals · Backend basics · Building 
 
 **[RamKleener](https://github.com/pushkarthisside/ramkleener)**  
 CLI tool to safely free RAM using a tiered, personalized process filter.  
-`PowerShell` `Python`
+`OS` `PowerShell` `Python`
 
 **[Mood Elevator](https://github.com/pushkarthisside/mood-elevator)**  
 Web app that tracks mood over time — built to understand frontend state and interactions.  
