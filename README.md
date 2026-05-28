@@ -21,9 +21,9 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ---
 
-### 🎯 Core Focus
+### 🎯 Core Focus(currently)
 
-Problem solving (DSA in Java) · OOP fundamentals · Backend basics · Building practical tools
+Problem solving (DSA in Java) · Exploring Blockchain,Backend,AI · Building practical tools 
 
 ---
 
