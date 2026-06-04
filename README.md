@@ -19,11 +19,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
----
-
-### 🎯 Core Focus(currently)
-
-Problem solving (DSA in Java) · Exploring Blockchain,Backend,AI · Building practical tools 
 
 ---
 
@@ -44,7 +39,7 @@ Custom plugin for OBS Studio to extend scene control — first dive into Lua scr
 ---
 
 ### 🔭 Currently Exploring
-`Backend Development` · `AI / ML` · `System Design` · `Finance & Markets` · `Open Source`
+`Blockchain & WEB3 `.`Backend Development` · `AI / ML` · `System Design` · `Finance & Markets` · `Open Source`
 
 ---
 
